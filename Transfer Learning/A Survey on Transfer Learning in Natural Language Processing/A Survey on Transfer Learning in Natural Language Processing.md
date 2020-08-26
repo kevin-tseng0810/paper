@@ -11,8 +11,10 @@
 <dt>Transfer Learning在NLP上有兩種用法:</dt>
 <dd>
 1. Transductive Transfer Learning(有新目標的label data)<dd>
+2. Inductive Transfer Learning(沒有新目標的label data)
+
 <img src="https://github.com/kevin-tseng0810/paper/blob/master/Transfer%20Learning/A%20Survey%20on%20Transfer%20Learning%20in%20Natural%20Language%20Processing/Snipaste_2020-08-26_23-10-11.png?raw=true">
 
-2. Inductive Transfer Learning(沒有新目標的label data)
+
 <img src="https://github.com/kevin-tseng0810/paper/blob/master/Transfer%20Learning/A%20Survey%20on%20Transfer%20Learning%20in%20Natural%20Language%20Processing/Snipaste_2020-08-26_23-13-24.png?raw=true">
 </d1>
